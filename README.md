@@ -20,5 +20,5 @@ An interactive navigation menu that stays fixed at the top of the page and enhan
 
 ├── index.html          # Main HTML file with the menu structure.
 ├── style.css           # Contains the CSS for styling the menu.
-└── script.js           # JavaScript file to add scroll-based interactivity.
+└── app.js           # JavaScript file to add scroll-based interactivity.
 ```
